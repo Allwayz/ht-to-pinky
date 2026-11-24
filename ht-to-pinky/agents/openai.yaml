@@ -1,0 +1,4 @@
+interface:
+  display_name: "HT to Pinky"
+  short_description: "Convert HomeTrans cases for Pinky"
+  default_prompt: "Use $ht-to-pinky to convert these HomeTrans test_case.md files into Pinky test cases."
